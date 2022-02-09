@@ -1,5 +1,5 @@
 Progetti del corso di Informatica III A
 
-- C++ -> Scalvini VS Camuni
-- Scala -> Combattimenti Fantasy
-- ASM -> Slot Machine
+- Combattimenti Fantasy -> Scala
+- Scalvini VS Camuni -> C++
+- Slot Machine -> ASM
